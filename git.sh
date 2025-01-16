@@ -7,3 +7,5 @@ if [ $? -eq 0 ]; then
 else
     echo "git is not installed"
 fi
+
+date
