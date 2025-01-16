@@ -9,3 +9,7 @@ else
 fi
 
 date
+
+echo "--------------------------------------------"
+
+echo " checking webhooks "
